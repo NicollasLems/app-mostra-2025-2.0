@@ -22,7 +22,7 @@
        - Widgets utilizados: <br>
       - Mapa da navegação <br>
   
-  - IV. Flutter
+- IV. Flutter
       - Visual <br>
         - Página de login: <br>
         - Página Inicial (HomeScreen): <br>
